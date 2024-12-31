@@ -1,6 +1,10 @@
 # [HASKELL](https://www.haskell.org/)
 
 
+* [Haskell Cheat Sheet](http://cheatsheet.codeslower.com/CheatSheet.pdf) (2010)
+* [Haskell CheatSheet](http://alhassy.com/HaskellCheatSheet/CheatSheet.pdf) (2020) ([portrait](http://alhassy.com/HaskellCheatSheet/CheatSheet_Portrait.pdf))
+
+
 Tutorials
 ---------
 
