@@ -16,6 +16,7 @@ Tutorials
 * [Real World Haskell](https://book.realworldhaskell.org/read/) (2008)
 * [Gentle Introduction To Haskell](https://www.haskell.org/tutorial/) (2000)
 * [Write You a Scheme](https://wespiser.com/writings/wyas/home.html) (2016) ([2007](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours))
+* [Yet Another Haskell Tutorial](https://en.wikibooks.org/wiki/Yet_Another_Haskell_Tutorial) (2006)
 * [Haskell wikibook](https://en.wikibooks.org/wiki/Haskell) (2018)
 * [What I Wish I Knew When Learning Haskell](http://web.archive.org/web/20220121165506id_/http://dev.stephendiehl.com/hask/index.html) (2020) ([screen](http://web.archive.org/web/20220508050233id_/http://dev.stephendiehl.com/hask/tutorial.pdf) | [print](http://web.archive.org/web/20211124023201id_/http://dev.stephendiehl.com/hask/tutorial_print.pdf) | [epub](http://web.archive.org/web/20220401033642id_/http://dev.stephendiehl.com/hask/tutorial.epub) | [mobi](http://web.archive.org/web/20220401033642id_/http://dev.stephendiehl.com/hask/tutorial.mobi))
 
