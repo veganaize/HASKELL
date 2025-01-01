@@ -30,6 +30,6 @@ Courses
 Docs
 ----
 
-* [GHC User’s Guide](https://downloads.haskell.org/ghc/latest/docs/users_guide/) ([Using GHCi](https://downloads.haskell.org/ghc/latest/docs/users_guide/ghci.html))
-* [Haskell 2010 Language Report](https://www.haskell.org/definition/haskell2010.pdf)
+* [GHC User’s Guide](https://downloads.haskell.org/ghc/latest/docs/users_guide/) ([Using GHCi](https://downloads.haskell.org/ghc/latest/docs/users_guide/ghci.html)) ([GHC libraries](https://downloads.haskell.org/ghc/latest/docs/libraries/index.html))
+* [Haskell 2010 Language Report](https://www.haskell.org/onlinereport/haskell2010/haskell.html) ([2010 libraries](https://www.haskell.org/onlinereport/haskell2010/haskellpa2.html)) ([2010 pdf](https://www.haskell.org/definition/haskell2010.pdf))
 * [Haskell 98 (Revised) Report](https://www.haskell.org/definition/haskell98-report.pdf)
