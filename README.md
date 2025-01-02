@@ -24,7 +24,7 @@ Tutorials
 Courses
 -------
 
-* [Introduction to Haskell](https://www.seas.upenn.edu/~cis1940/spring13/lectures.html) (2013)
+* [Introduction to Haskell](https://www.seas.upenn.edu/~cis1940/spring13/lectures.html) (2013) ([minor update to first 6 modules](https://www.schoolofhaskell.com/user/byorgey/introduction-to-haskell))
 
 
 Docs
