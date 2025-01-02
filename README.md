@@ -13,7 +13,7 @@ Tutorials
 * [Learning Haskell](http://learn.hfm.io/) (2015-2016)
 * [Happy Learn Haskell Tutorial](https://www.happylearnhaskelltutorial.com/contents.html) (2022)
 * [Learn You a Haskell](https://learnyouahaskell.github.io/chapters.html) (2021-) ([2011](https://learnyouahaskell.com/chapters))
-* [Real World Haskell](https://book.realworldhaskell.org/read/) (2008)
+* [Real World Haskell](https://book.realworldhaskell.org/read/) (2008) ([pdf](https://darcs.realworldhaskell.org/static/00book.pdf))
 * [Gentle Introduction To Haskell](https://www.haskell.org/tutorial/) (2000)
 * [Write You a Scheme](https://wespiser.com/writings/wyas/home.html) (2016) ([2007](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours))
 * [Yet Another Haskell Tutorial](https://en.wikibooks.org/wiki/Yet_Another_Haskell_Tutorial) (2006)
