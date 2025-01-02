@@ -36,4 +36,4 @@ Docs
 
 ---
 
-* [Structure and Interpretation of Computer Programs](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html) ([zipped](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip)) ([online](https://sarabander.github.io/sicp/)) ([pdf](https://web.mit.edu/6.001/6.037/sicp.pdf)) ([pdf pocket](https://sicpebook.wordpress.com/wp-content/uploads/2012/11/sicp-pocket.pdf)) ([pdf marginless](https://sicpebook.wordpress.com/wp-content/uploads/2012/11/sicp-marginless.pdf))
+* [Structure and Interpretation of Computer Programs](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html) ([zipped](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip)) ([online](https://sarabander.github.io/sicp/)) ([pdf](https://web.mit.edu/6.001/6.037/sicp.pdf)) ([pdf pocket](https://sicpebook.wordpress.com/wp-content/uploads/2012/11/sicp-pocket.pdf)) ([pdf marginless](https://sicpebook.wordpress.com/wp-content/uploads/2012/11/sicp-marginless.pdf)) ([epub](https://github.com/sarabander/sicp-epub/raw/refs/heads/master/sicp.epub))
