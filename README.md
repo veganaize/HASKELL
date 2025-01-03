@@ -8,7 +8,7 @@
 Tutorials
 ---------
 
-* [Try Haskell](https://tryhaskell.org/)
+* [Try Haskell](https://tryhaskell.org/) (2010)
 * [Learn Haskell in Y Minutes](https://learnxinyminutes.com/haskell/)
 * [Learning Haskell](http://learn.hfm.io/) (2015-2016)
 * [Happy Learn Haskell Tutorial](https://www.happylearnhaskelltutorial.com/contents.html) (2022)
